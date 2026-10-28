@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cheletoyaold&label=Profile%20views&color=7f06d0&style=flat" alt="cheletoyaold" /> </p>
 
-- 🔭 I’m currently working on **MortgageCalculator**
+- 🔭 I’m currently working on **Fullstack WebSites**
 
-- 🌱 I’m currently learning **Kivymd**
+- 🌱 I’m currently learning **App testing**
 
 - 📫 How to reach me **mishakharchenko2008@gmail.com**
 
-- ⚡ Fun fact **I'm really driving like skibidi**
+- ⚡ Fun fact **I like listening to music when I'm working on the projects**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
