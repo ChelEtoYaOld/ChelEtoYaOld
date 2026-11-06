@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ChelEtoYaOld</h1>
+<h1 align="center">Hi 👋, I'm Michael Kharchenko
 <h3 align="center">A passionate frontend and backend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cheletoyaold&label=Profile%20views&color=7f06d0&style=flat" alt="cheletoyaold" /> </p>
